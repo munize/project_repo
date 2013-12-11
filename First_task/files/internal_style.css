@@ -1,0 +1,54 @@
+.container.padded {
+    width: 990px;
+}
+.sorting_asc {
+    color: black;
+    font-family: serif;
+}
+.sorting
+{
+    color: black;
+    font-family: serif;
+
+}
+.sorting_1 {
+    background-color:  #EEEEEE !important;
+    font-family: serif;
+    color:black;
+
+}
+.odd {
+    background-color: #EEEEEE!important;
+    font-family: serif;
+    color:black;
+
+}
+.even {
+    background-color:  #EEEEEE !important;
+    font-family: serif;
+    color:black;
+}
+.dataTables_info {
+    font-family: serif;
+}
+#example_filter > label {
+    font-family: serif;
+}
+#example_length > label {
+    font-family: serif;
+}
+.glyphicon:empty {
+    width: 23px !important;
+}
+.dataTables_wrapper {
+    background-color: #EEEEEE !important;
+}
+#zaz a {
+    text-decoration: none;
+}
+#yJ6h3Npe7C a {
+    text-decoration: none;
+}
+.in {
+    list-style-type: none;
+}
